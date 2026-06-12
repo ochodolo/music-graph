@@ -3,6 +3,11 @@
 Slim top-level. Detail lives in `docs/`. Provide this file plus the
 relevant `docs/` file for the active ticket.
 
+## Purpose
+Portfolio-grade coding project — a working discovery tool that also demonstrates
+engineering craft: clean architecture, TDD, honest eval, right-sized tooling.
+"Best practice" here = judgment and restraint, not maximal process.
+
 ## Status
 _MG-00 scaffold ✓ · branch protection on main + develop ✓ (PR + CI,
 admins excluded)._ NEXT: MG-01 — MusicBrainz ingestion (raw bipartite layer).
